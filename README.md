@@ -1,1 +1,11 @@
-# night-light
+# _Night Light_ - Giselle Rosales
+
+## About the Project
+An independent Twine project whose narrative transforms the abstract concept of thoughts and emotions into a concrete product that others could use in exploring mental health.
+
+I worked individually on this interactive narrative, using not only its story but also its structure and code to anticipate player actions and evoke specific feelings in order to depict a particular experience. I wrote the narrative, designed the player interactions, built the game using the Twine platform’s built-in HTML and CSS files, and implemented feedback from playtesting. 
+
+This project was completed in April 2021. It was nominated and accepted into the 2022 Digital Media & Design Showcase at the University of Pittsburgh.
+
+## Artist's Statement
+_Night Light_ is an interactive narrative that I produced in Twine. It is a very personal product, one that not everyone will find relatable but one that hopefully gives insight to a particular experience. _Night Light_ provides a representation of a late-night panic attack and includes descriptions that may be uncomfortable or triggering to people with anxiety and/or depression—I provide this (and a more detailed) trigger warning and mental health resources in the title screen. The assignment for which I created _Night Light_ allowed students to create a Twine game on any topic of their choice, as long as they fulfilled a few technical requirements. With this freedom, I wanted to transform the abstract concept of thoughts and emotions into a concrete product that others could explore. Using not only the narrative story but also its structure and code, I made decisions to take advantage of player psychology in game design—anticipating player actions to evoke specific feelings. While translating thoughts and emotions into interactive narrative through code required careful and deliberate choices, I found many features of the Twine platform sufficient in delineating the nuances that I wanted to include. Taking inspiration from Mark Danielewski’s ergodic _House of Leaves_ and incorporating my knowledge of game design from video game journalist Mark Brown’s YouTube channel Game Maker’s Toolkit, I crafted _Night Light_ to be a frustrating experience that resolves in a neutral yet hopeful ending. Although I began producing _Night Light_ as a documentation of my own experience, I welcome anyone to explore the space I have created, and perhaps someone who relates will feel less alone. 
